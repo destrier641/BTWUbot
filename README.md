@@ -1,3 +1,4 @@
 Required modules:
-* `psycopg2-binary` (for PostgreSQL API)
+* `psycopg2` (for PostgreSQL API)
 * `discord.py` (for Discord API)
+* `spotipy` (for Spotify API)
